@@ -1,6 +1,2 @@
 # crud
-blawhslk
-sfdlfdkjsf
-dlfjsdlfjsdlfd
-sjdflfs
-dfsfjjflsadf
+A project about CRUD in pure PHP language
